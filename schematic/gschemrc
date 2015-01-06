@@ -1,0 +1,3 @@
+(load (build-path geda-rc-path "print-colormap-lightbg"))
+(output-color "enabled")
+(image-color "enabled")
